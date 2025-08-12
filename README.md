@@ -1,2 +1,2 @@
 # academic-projects
-Repositorio para indexar outros repositorios com trabalhos e projetos da faculdade e outros cursos
+### Repositório para centralizar e organizar links de trabalhos e projetos acadêmicos e de cursos complementares, facilitando o acesso e a consulta.
